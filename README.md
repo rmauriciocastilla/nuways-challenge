@@ -12,49 +12,6 @@ Javascript, HTML, CSS, ReactJS, ReduxJs, NodeJS, ExpressJS, Sequelize, PostgreSQ
 
 ## 3. Estructura de directorios
 
-/Nuways-challenge
-    /client
-        /public
-        /src
-            /components
-                /Contact
-                    /Contact.css
-                    /Contact.jsx
-                /Contacts
-                    /Contact.css
-                    /Contact.jsx
-                /Create
-                    /Create.css
-                    /Create.jsx
-                /Update
-                    /Update.jsx
-            /redux
-                /actions
-                    /index.js
-                    /variables.js
-                /reducer
-                    /index.js
-                /store
-                    /index.js
-            /App.css
-            /App.js
-            /index.css
-            /index.js
-            /package.json
-    /api
-        /src
-            /controllers
-                /index.js
-            /models
-                /User.js
-            /routes
-                /index.js
-            /app.js
-            /db.js
-        /.env
-        /index.js
-        /package.json
-    /.gitignore
-    /README.md
+
 
 ## 4. No implemente WebSockets
