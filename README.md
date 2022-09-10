@@ -11,7 +11,6 @@ Una vez se clone el repositorio se debera proceder a ejercutar el comando **npm 
 Javascript, HTML, CSS, ReactJS, ReduxJs, NodeJS, ExpressJS, Sequelize, PostgreSQL
 
 ## 3. Estructura de directorios
-
-
+<img src="./esquema.png" alt="esquema"/>
 
 ## 4. No implemente WebSockets
